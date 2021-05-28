@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RotationCounter</string>
+    <string name="init_counter">0</string>
+    <string name="incrementar">Incrementar</string>
+</resources>
